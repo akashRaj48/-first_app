@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+  ..banner{
+  height:500px;
+  width:1300px;
+  border-radius: 10px;
+}
+.center{
+  list-style: circle;
+  border: 10px solid red;
+  border-spacing: 0;
+  border-radius: 5px;
+  padding: 20px;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 15px;
+  text-align: center;
+  background-color:grey;
+}
+.heading{
+  color: white;
+  font-size: 50-px;
+  font-weight: bold;
+  text-transform: uppercase;
+
+}
+ 
+    </style>
+  
+</head>
+<body>
+    <div class="center">
+        <img class= "banner" src=" https://hips.hearstapps.com/sev.h-cdn.co/assets/16/25/480x240/landscape-1466522110-netflix-old-logo.png?resize=480:*"alt="">
+        
+        <h1> Order Summary</h1>
+        <p class= "heading" > You can now watch millions of movies videos, and prodcasts on any device anywhere you like</p>
+          </div>
+</body>
+</html>
